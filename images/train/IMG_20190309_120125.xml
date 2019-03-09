@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Photos</folder>
+	<filename>IMG_20190309_120125.jpg</filename>
+	<path>/home/mikkel/Desktop/images/Photos/IMG_20190309_120125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>high five bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>387</ymin>
+			<xmax>698</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>
